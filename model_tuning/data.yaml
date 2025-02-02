@@ -1,0 +1,14 @@
+# Ejemplo de como sería el yaml del modelo de Roboflow
+train: \train\images
+val: \valid\images
+test: \test\images
+
+nc: 3
+names: ['0', '1', '2']
+
+auto_augment: none
+mosaic: 0
+mixup: 0
+copy_paste: 0
+flipud: 0
+fliplr: 0
