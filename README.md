@@ -2,6 +2,15 @@
 
 Este proyecto consiste en un modelo de detección de objetos enfocado en aplicaciones de visión por computadora en el ámbito del fútbol.
 
+<a href="https://universe.roboflow.com/futbolcv/acuity-ctzp4">
+<img src="https://app.roboflow.com/images/download-dataset-badge.svg"></img>
+</a>
+
+## Descargar modelos
+- Modelo manual: [Descargar](https://nebrija-my.sharepoint.com/:u:/g/personal/lruizm4_alumnos_nebrija_es/EdoOzBvi0lBAlOoJ9LmLsvIBpaEeeRnr-T16vxtceAcF0g?e=kF627F)
+- Modelo Fine-Tuning: [Descargar](https://nebrija-my.sharepoint.com/:u:/g/personal/lruizm4_alumnos_nebrija_es/EesAtNmOj79Ll5exXjWg_1cBi3VCbxo5Wo3WTQwqkRoEbA?e=qYNdxJ)
+- Modelo Roboflow: [Descargar](https://universe.roboflow.com/futbolcv/acuity-ctzp4)
+
 ## Descripción
 
 El objetivo principal de este proyecto es desarrollar un modelo capaz de identificar y clasificar objetos relevantes en imágenes y videos de partidos de fútbol, como jugadores, balón, árbitros, entre otros. Esto puede ser útil para análisis de rendimiento, estadísticas en tiempo real y otras aplicaciones relacionadas con el fútbol.
